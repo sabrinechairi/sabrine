@@ -1,0 +1,88 @@
+body{
+    background-color: grey;
+    color:white;
+    width: 1200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: auto;
+}
+header{
+    height: 129px;
+    background-repeat: no-repeat;
+    background-image: url("fs2.png") ;
+    background-position: center;
+    margin-bottom: 10px;
+
+}
+.element_menu{
+    border: solid;
+    background-color: yellow;
+    padding: 10px;
+    background-image: url("motif.png");
+    background-repeat: repeat-x;
+    margin-bottom: 20px;
+
+}
+.element_menu h3{
+    color: aqua;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.element_menu ul{
+     list-style-image: url("puce.png");
+     padding: 0px;
+     padding-left: 20px;
+     margin: 0px;
+     margin-bottom: 5px;
+
+}
+     
+
+.element_menu a{
+    color: aqua;
+}
+.element_menu a:hover{
+    background-color: blueviolet;
+    color: green;
+}
+
+
+nav{
+    float: left;
+    width: 180px;
+    
+}
+section{
+    margin-bottom: 20px;
+    color: brown;
+    border: steelblue 5px solid;
+    margin-left:190px ;
+    padding: 5px;
+    background-color: cadetblue;
+    background-image: url("motif.png");
+}
+section h1{
+    color: chocolate;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+section h2{
+    height: 30px;
+    background-image: url("titre.png");
+    background-repeat:no-repeat ;
+    padding-left: 30px;
+    color: crimson;
+    text-align: left;
+}
+footer{
+    border: rosybrown 2px solid;
+    margin-top: 5px;
+    padding: 5px;
+    text-align: center;
+    background-color: darkblue;
+    background-image: url("motif.png");
+    background-repeat: repeat-x;
+
+    
+
+}

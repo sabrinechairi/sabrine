@@ -12,7 +12,8 @@ body {
 	font-family: 'Poppins', sans-serif;
 	font-size: 1.6rem;
 	color: #fff;
-	background-color: #121419;
+	background-image:url(p3.jpeg);
+	
 }
 a {
 	text-decoration: none;
@@ -24,9 +25,10 @@ a {
 	height:480px;
 	position:relative;
 	margin:2% auto;
-	background:rgba(0,0,0,0.3);
+	background:transparent;
 	padding:10px;
     overflow: hidden;
+	backdrop-filter: blur(20px);
 }
 .button-box
 {
@@ -40,7 +42,7 @@ a {
 {
 	padding:10px 30px;
 	cursor:pointer;
-	background:transparent;
+	background: transparent;
 	border:0;
 	outline: none;
 	position: relative;
@@ -141,7 +143,7 @@ header{
 	font-family: 'Poppins', sans-serif;
 	font-size: 1.6rem;
 	color: #fff;
-	background-color: #0414f7;
+	background-color: #066aa4ba;
 }
 a {
 	text-decoration: none;

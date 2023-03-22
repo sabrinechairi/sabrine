@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Bootstrap-Course"
+		},
+		{
+			"path": "../../Downloads/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css"
+		},
+		{
+			"path": "../../Downloads/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/js"
+		},
+		{
+			"path": "angular practice"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "angular practice"
+	}
+}

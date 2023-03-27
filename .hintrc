@@ -13,6 +13,7 @@
         "image-alt": "off"
       }
     ],
-    "no-inline-styles": "off"
+    "no-inline-styles": "off",
+    "meta-charset-utf-8": "off"
   }
 }
